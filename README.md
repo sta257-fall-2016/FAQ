@@ -6,9 +6,9 @@ This doesn't mean you still aren't allowed to visit or ask about anything, inclu
 
 Commentary will be put here:
 
-3.42a: when deriving the cdf be careful of cases $x<0$ and $x\ge 0$
+3.42a: when deriving the cdf be careful of cases x<0 and x >= 0
 
-3.46: two correct answers; depends on choice of $dy\,dx$ or $dx\,dy$
+3.46: two correct answers; depends on choice of dydx or dxdy.
 
 4.9: inventory problem; answer quite involved
 
