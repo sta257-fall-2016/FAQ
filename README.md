@@ -10,7 +10,7 @@ Commentary will be put here:
 
 3.46: two correct answers; depends on choice of dydx or dxdy.
 
-4.9: inventory problem; answer quite involved
+4.9: inventory problem; answer quite involved (and note that the policy is actually to stock n-1 parts once you find the smallest n that satisfies the condition specified.)
 
 4.13: there is the classic proof that is easy when you know the "trick" and the same trick applies to 4.8. The more direct proof using integration by parts is what you might have come up with yourself but there is a actually a tricky mathematical issue to navigate.
 
